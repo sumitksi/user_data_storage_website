@@ -63,30 +63,6 @@ This project is a web-based application designed to securely register, store, an
 - *Layout*: Responsive design to ensure a seamless experience across devices.
 - *Color Scheme*: Utilizes a clean and modern color palette for a professional look.
 
-### CSS Highlights
-
-css
-* {
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    outline: none;
-    border: none;
-    text-decoration: none;
-}
-
-.container {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-    padding-bottom: 60px;
-}
-
-*(Refer to style.css for the complete styling rules.)*
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
